@@ -8,6 +8,10 @@ https://github.com/byionline/website
 
 https://byionline.github.io/website/
 
+## Clone this App
+
+git clone -b DemoEmployeeApp  https://github.com/byionline/ReactJs.git
+
 ## Available Scripts
 
 In the project directory, you can run:
