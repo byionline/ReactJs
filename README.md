@@ -46,3 +46,15 @@ https://github.com/settings/emails
 # 2. Push to the Branch 
 
 ## git push -u origin Branch Name
+
+# 3. List branch
+
+## git branch
+
+# Git Status
+
+## git status
+
+# 4. Git Log
+
+## git log
