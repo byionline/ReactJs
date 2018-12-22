@@ -58,3 +58,19 @@ https://github.com/settings/emails
 # 4. Git Log
 
 ## git log
+
+# 5. Delete branch
+
+## To delete local branch
+
+### first switch to master
+
+## git checkout master
+
+### the delete local
+
+## git branch -d BranchName
+
+### to delete remote branch
+
+## git push --delete origin BranchName
