@@ -41,8 +41,8 @@ https://github.com/settings/emails
 
 # 1. Create branch and checkout to new branch
 
-## git checkout -b <Branch Name>
+## git checkout -b Branch Name
 
 # 2. Push to the Branch 
 
-## git push -u origin <Branch Name>
+## git push -u origin Branch Name
