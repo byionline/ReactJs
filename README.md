@@ -90,12 +90,13 @@ git remote -v
 # origin  https://github.com/user/repo2.git (fetch)
 # origin  https://github.com/user/repo2.git (push)
 
-# 7. Upload to branch
-`#mkdir ff
-#cd ff
-ff#git init
-Initialized empty Git repository in /home/devlop/Desktop/dd/ff/.git/
-ff#git add Heruko-install-guide 
-ff#git remote add origin https://github.com/byionline/heroku.git
-ff#git checkout -b install-d
-`
+# 7. Upload to branch Example
+mkdir ff
+cd ff
+git init
+git add FILE_NAME
+git remote add origin repo_url
+git checkout -b branch_name
+git commit -m 'initial'
+git push origin branch_name
+
