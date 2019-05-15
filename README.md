@@ -91,12 +91,12 @@ git remote -v
 # origin  https://github.com/user/repo2.git (push)
 
 # 7. Upload to branch Example
-mkdir ff
-cd ff
-git init
-git add FILE_NAME
-git remote add origin repo_url
-git checkout -b branch_name
-git commit -m 'initial'
-git push origin branch_name
+### mkdir ff
+### cd ff
+### git init
+### git add FILE_NAME
+### git remote add origin repo_url
+### git checkout -b branch_name
+### git commit -m 'initial'
+### git push origin branch_name
 
