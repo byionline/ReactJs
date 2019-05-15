@@ -89,3 +89,13 @@ git remote -v
 # Verify new remote URL
 # origin  https://github.com/user/repo2.git (fetch)
 # origin  https://github.com/user/repo2.git (push)
+
+# 7. Upload to branch
+`#mkdir ff
+#cd ff
+ff#git init
+Initialized empty Git repository in /home/devlop/Desktop/dd/ff/.git/
+ff#git add Heruko-install-guide 
+ff#git remote add origin https://github.com/byionline/heroku.git
+ff#git checkout -b install-d
+`
