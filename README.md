@@ -43,7 +43,7 @@ https://github.com/settings/emails
 
 ## git checkout -b Branch Name
 
-# 2. Push to the Branch 
+# 2. Push to the Branch
 
 ## git push -u origin Branch Name
 
@@ -100,3 +100,5 @@ git remote -v
 ### git commit -m 'initial'
 ### git push origin branch_name
 
+# 8. Fetch branch
+### git fetch && git checkout BranchName
